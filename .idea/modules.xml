@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/StoreKeeper.iml" filepath="$PROJECT_DIR$/StoreKeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StoreKeeper_Program.iml" filepath="$PROJECT_DIR$/StoreKeeper_Program.iml" />
     </modules>
   </component>
 </project>
